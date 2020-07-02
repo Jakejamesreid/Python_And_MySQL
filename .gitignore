@@ -1,2 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# SQL Databases
 *.sql
+
+# Environment variables file
 env.py
+
+# Virtual Environment
+env/
